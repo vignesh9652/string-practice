@@ -1,4 +1,4 @@
-public class CountCharcter {
+public class CountCharacter {
     public static void main(String[] args) {
 
         String str="Java Full Stack";
